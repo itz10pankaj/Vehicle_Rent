@@ -460,7 +460,7 @@ void userMenu(Rental &rental, User &user)
 int main()
 {
     // Create Admin
-    Admin admin("Pankaj", "pgarg9355@gmail.com", "7206189877", "paPR1002");
+    Admin admin("Pankaj", "admin@gmail.com", "7206189877", "12345678");
 
     // Create rental system
     Rental rental(admin);
